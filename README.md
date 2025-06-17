@@ -25,5 +25,5 @@
 ```js
 let nombre = "Daniela"
 console.log("Hola " + nombre);
-```js
+
 
